@@ -11,7 +11,7 @@ Welcome to our channel CoDeBug :)
 
 There will be three playlists for problems on leetcode.
 
-1. Leetcode Easy
+1. Leetcode Easy - https://github.com/team-codebug/leetcode
 2. Leetcode Medium
 3. Leetcode Hard
 
