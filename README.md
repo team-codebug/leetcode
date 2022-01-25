@@ -8,6 +8,7 @@ Welcome to our channel CoDeBug :)
 9. Palindrome Number - https://github.com/team-codebug/leetcode/blob/main/9PalindromeNumber.java
 13. Roman To Integer - https://github.com/team-codebug/leetcode/blob/main/13RomanToInteger.java
 14. Longest Common Prefix - https://github.com/team-codebug/leetcode/blob/main/14LongestCommonPrefix.java
+20. Valid Parentheses - https://github.com/team-codebug/leetcode/blob/main/20ValidParentheses.java
 
 There will be three playlists for problems on leetcode.
 
