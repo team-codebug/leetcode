@@ -1,21 +1,13 @@
-# Leetcode
+# Leetcode Solutions
 
-Hello Everyone,
+### [Easy](https://www.youtube.com/playlist?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ)
+1. [Two Sum](https://leetcode.com/problems/two-sum/) - [1TwoSum.pdf](https://github.com/team-codebug/leetcode/blob/main/1TwoSum.pdf) <a href="https://youtu.be/jMKNAKGld0I?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ" target="_blank"><img src="https://github.com/team-codebug/leetcode/blob/main/youtube_logo_red.jpg" width="24" height="12" border="1" /></a> - [1TwoSum.java](https://github.com/team-codebug/leetcode/blob/main/1TwoSum.java) <a href="https://youtu.be/SZC7Kfi_bv8?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ" target="_blank"><img src="https://github.com/team-codebug/leetcode/blob/main/youtube_logo_red.jpg" width="24" height="12" border="1" /></a>
+2. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [9PalindromeNumber.pdf](https://github.com/team-codebug/leetcode/blob/main/9PalindromeNumber.pdf) <a href="https://youtu.be/MthJdBKU8hs?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ" target="_blank"><img src="https://github.com/team-codebug/leetcode/blob/main/youtube_logo_red.jpg" width="24" height="12" border="1" /></a> - [9PalindromeNumber.java](https://github.com/team-codebug/leetcode/blob/main/9PalindromeNumber.java) <a href="https://youtu.be/7E5zIQ3DFiI?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ" target="_blank"><img src="https://github.com/team-codebug/leetcode/blob/main/youtube_logo_red.jpg" width="24" height="12" border="1" /></a>
+3. [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) - [13RomanToInteger.pdf](https://github.com/team-codebug/leetcode/blob/main/13RomanToInteger.pdf) <a href="https://youtu.be/xnMdbgatrAo?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ" target="_blank"><img src="https://github.com/team-codebug/leetcode/blob/main/youtube_logo_red.jpg" width="24" height="12" border="1" /></a> - [13RomanToInteger.java](https://github.com/team-codebug/leetcode/blob/main/13RomanToInteger.java) <a href="https://youtu.be/4NvrgqRXgoU?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ" target="_blank"><img src="https://github.com/team-codebug/leetcode/blob/main/youtube_logo_red.jpg" width="24" height="12" border="1" /></a>
+4. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [20ValidParentheses.pdf](https://github.com/team-codebug/leetcode/blob/main/20ValidParentheses.pdf) <a href="https://youtu.be/ewJ6bxg2Vjw?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ" target="_blank"><img src="https://github.com/team-codebug/leetcode/blob/main/youtube_logo_red.jpg" width="24" height="12" border="1" /></a> - [20ValidParentheses.java](https://github.com/team-codebug/leetcode/blob/main/20ValidParentheses.java) <a href="https://youtu.be/fIvzxVlkXBg?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ" target="_blank"><img src="https://github.com/team-codebug/leetcode/blob/main/youtube_logo_red.jpg" width="24" height="12" border="1" /></a>
+5. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - [14LongestCommonPrefix.pdf](https://github.com/team-codebug/leetcode/blob/main/14LongestCommonPrefix.pdf) <a href="https://youtu.be/n5y1jbe-YrU?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ" target="_blank"><img src="https://github.com/team-codebug/leetcode/blob/main/youtube_logo_red.jpg" width="24" height="12" border="1" /></a> - [14LongestCommonPrefix.java](https://github.com/team-codebug/leetcode/blob/main/14LongestCommonPrefix.java) <a href="https://youtu.be/LzxZ-gwK96c?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ" target="_blank"><img src="https://github.com/team-codebug/leetcode/blob/main/youtube_logo_red.jpg" width="24" height="12" border="1" /></a>
+### Medium
 
-Welcome to our channel CoDeBug :)
 
-1. Two Sum - https://github.com/team-codebug/leetcode/blob/main/1TwoSum.java
-9. Palindrome Number - https://github.com/team-codebug/leetcode/blob/main/9PalindromeNumber.java
-13. Roman To Integer - https://github.com/team-codebug/leetcode/blob/main/13RomanToInteger.java
-14. Longest Common Prefix - https://github.com/team-codebug/leetcode/blob/main/14LongestCommonPrefix.java
-20. Valid Parentheses - https://github.com/team-codebug/leetcode/blob/main/20ValidParentheses.java
 
-There will be three playlists for problems on leetcode.
-
-1. Leetcode Easy - https://github.com/team-codebug/leetcode
-2. Leetcode Medium
-3. Leetcode Hard
-
-This repository contains the solutions for Leetcode Easy playlist. For any constributions, you can raise a PR (or) if you want to look at any issue in the program, please create an issue. Our team member will look through it every week to get the right solution always. 
-
-Thanks and Happy Leetcoding!
+### Hard
