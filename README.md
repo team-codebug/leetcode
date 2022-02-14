@@ -12,7 +12,8 @@
 | 7.  | [Remove Duplicates From Sorted Array #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](https://youtu.be/FPBKXHQMkCo?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ) | [Link](https://youtu.be/IjZkg-V6-Qk?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ)| [Link](https://github.com/team-codebug/leetcode/blob/main/26RemoveDuplicatesFromSortedArrayNotes.pdf) | [Link](https://github.com/team-codebug/leetcode/blob/main/26RemoveDuplicatesFromSortedArray.java)
 | 8.  | [Remove Element #27](https://leetcode.com/problems/remove-element/) | [Link](https://youtu.be/SXK65qLccwI?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ) | [Link](https://youtu.be/2ToiYUaT0-A?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ)| [Link](https://github.com/team-codebug/leetcode/blob/main/27RemoveElementsNotes.pdf) | [Link](https://github.com/team-codebug/leetcode/blob/main/27RemoveElement.java)
 | 9.  | [Implement strStr() #28](https://leetcode.com/problems/implement-strstr/) | [Link](https://youtu.be/E6k-E0ydu1k?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ) | [Link](https://youtu.be/ztlNTVzVW2Q?list=PLVItHqpXY_DD65uetx0HXIRKKNnnbT8TZ)| [Link](https://github.com/team-codebug/leetcode/blob/main/28ImplementStrStr.pdf) | [Link](https://github.com/team-codebug/leetcode/blob/main/28ImplementStrStr.java)
-| 10.  | [Title]() | [Link]() | [Link]()| [Link]() | [Link]()
+| 10.  | [Search Insert Position Code #35](https://leetcode.com/problems/search-insert-position/) | [Link](https://youtu.be/DRjlraDXyCk) | [Link](https://youtu.be/q-zVJyW_c90)| [Link](https://github.com/team-codebug/leetcode/blob/main/35SearchInsertPosition.pdf) | [Link](https://github.com/team-codebug/leetcode/blob/main/35SearchInsertPosition.java)
+| 11.  | [Title]() | [Link]() | [Link]()| [Link]() | [Link]()
 
 
 ### Medium
