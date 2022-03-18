@@ -118,6 +118,6 @@ public class Main {
         String s = "madan";
         System.out.println(isPalindrome(s));
         System.out.println(isPalindromeRecursive(s, 0, s.length() - 1));
-        towerOfHanoi(2, "A", "B", "C");
+        towerOfHanoi(2, "A", "C", "B");
     }
 }
