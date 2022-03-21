@@ -95,11 +95,36 @@ public class StringProblems {
 
         return sum % 6;
     }
+    
+    public static String getRelationship(int flameNumber) {
+        String str3 = " ";
+        switch (flameNumber) {
+            case 1:
+                str3 = "Friends";
+                break;
+            case 2:
+                str3 = "Love";
+                break;
+            case 3:
+                str3 = "Affection";
+                break;
+            case 4:
+                str3 = "Marriage";
+                break;
+            case 5:
+                str3 = "Enemy";
+                break;
+            case 0:
+                str3 = "Siblings";
+                break;
+        }
+        return str3;
+    }
 
     public static void main(String[] args) {
         System.out.println(reverseUsingSB("anuj"));
         System.out.println(isDivisibleBy3("124"));
-        System.out.println(flameGame("saumya", "ansh"));
+        System.out.println(getRelationship(flameGame("saumya", "ansh")));
         System.out.println(compress("aaaaaaabcdddd"));
     }
 }
