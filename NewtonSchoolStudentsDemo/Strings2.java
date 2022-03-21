@@ -99,7 +99,28 @@ public class StringProblems {
     public static void main(String[] args) {
         System.out.println(reverseUsingSB("anuj"));
         System.out.println(isDivisibleBy3("124"));
-        System.out.println(flameGame("saumya", "ansh"));
         System.out.println(compress("aaaaaaabcdddd"));
+        int x = flameGame("saumya", "ansh"));  // initialising the number returned by flameGame function to x
+        // using switch case to denote the relationship concerned with each number
+        switch (x) {
+            case 1:
+                System.out.println("Friends");
+                break;
+            case 2:
+                System.out.println("Love");
+                break;
+            case 3:
+                System.out.println("Affection");
+                break;
+            case 4:
+                System.out.println("Marriage");
+                break;
+            case 5:
+                System.out.println("Enemy");
+                break;
+            case 0:
+                System.out.println("Siblings");
+                break;            
+        }
     }
 }
