@@ -1,6 +1,3 @@
-Here’s a structured **Meeting Agenda** format based on your 45-minute plan:
-
----
 
 # **Meeting Agenda**  
 **Duration:** 45 Minutes  
@@ -44,5 +41,3 @@ Here’s a structured **Meeting Agenda** format based on your 45-minute plan:
 - Keep the session **interactive** to ensure engagement.  
 - Encourage participants to ask questions throughout (not just in Q&A).  
 - Provide actionable takeaways at the end.  
-
-Would you like any refinements based on the type of audience? 🚀
