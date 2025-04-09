@@ -91,4 +91,4 @@ Build like the future depends on it — because it does. 🌍🚀
 
 ---
 
-🧙‍♂️ Ready to dive deeper? Start with [Factor 1: Codebase →](#)
+🧙‍♂️ Ready to dive deeper? Start with [Factor 1: Codebase →](https://github.com/team-codebug/leetcode/blob/main/devops/course-1/1-Codebase.md)
